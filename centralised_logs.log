@@ -1,0 +1,339 @@
+2024-10-16 12:11:11,811 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-16 12:11:24,949 -- app_logs -- INFO -- Uploaded file: Tender.pdf
+2024-10-16 12:11:24,956 -- app_logs -- INFO -- Processing file 1: /tmp/tmp0kq_wba2/Tender.pdf
+2024-10-16 12:11:24,956 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp0kq_wba2/Tender.pdf
+2024-10-16 12:11:24,957 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp0kq_wba2/Tender.pdf
+2024-10-16 12:11:27,610 -- pdf_extractor_logs -- DEBUG -- Extracted text from 101 pages.
+2024-10-16 12:11:27,610 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 12:11:32,883 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 12:11:32,884 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-16 14:32:30,601 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-10-16 14:32:30,610 -- app_logs -- INFO -- Processing file 1: /tmp/tmp8npkpevg/Biddocument51_200KW.pdf
+2024-10-16 14:32:30,611 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp8npkpevg/Biddocument51_200KW.pdf
+2024-10-16 14:32:30,611 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp8npkpevg/Biddocument51_200KW.pdf
+2024-10-16 14:32:43,682 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-10-16 14:32:43,683 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 14:32:59,769 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 14:32:59,769 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-16 14:48:17,349 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-16 14:48:20,201 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-16 14:48:20,205 -- app_logs -- INFO -- Processing file 1: /tmp/tmphsayybo1/Bairaomgathigaon.pdf
+2024-10-16 14:48:20,205 -- processor_logs -- INFO -- Processing tender document: /tmp/tmphsayybo1/Bairaomgathigaon.pdf
+2024-10-16 14:48:20,205 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmphsayybo1/Bairaomgathigaon.pdf
+2024-10-16 14:48:26,145 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-16 14:48:26,145 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 14:48:32,919 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 14:48:32,920 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-16 15:05:30,313 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-16 15:05:30,316 -- app_logs -- INFO -- Processing file 1: /tmp/tmpwa0xff5g/Bairaomgathigaon.pdf
+2024-10-16 15:05:30,316 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpwa0xff5g/Bairaomgathigaon.pdf
+2024-10-16 15:05:30,317 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpwa0xff5g/Bairaomgathigaon.pdf
+2024-10-16 15:05:36,112 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-16 15:05:36,113 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 15:05:41,977 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 15:05:41,977 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-16 15:06:02,962 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-10-16 15:06:02,970 -- app_logs -- INFO -- Processing file 1: /tmp/tmpcyyyuvpg/Biddocument51_200KW.pdf
+2024-10-16 15:06:02,970 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpcyyyuvpg/Biddocument51_200KW.pdf
+2024-10-16 15:06:02,970 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpcyyyuvpg/Biddocument51_200KW.pdf
+2024-10-16 15:06:15,682 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-10-16 15:06:15,683 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 15:06:31,300 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 15:06:31,300 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-16 15:55:23,437 -- app_logs -- INFO -- Uploaded file: Nandurbar3RDCALL.pdf
+2024-10-16 15:55:23,443 -- app_logs -- INFO -- Processing file 1: /tmp/tmpeir0g3qz/Nandurbar3RDCALL.pdf
+2024-10-16 15:55:23,443 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpeir0g3qz/Nandurbar3RDCALL.pdf
+2024-10-16 15:55:23,443 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpeir0g3qz/Nandurbar3RDCALL.pdf
+2024-10-16 15:55:36,336 -- pdf_extractor_logs -- DEBUG -- Extracted text from 210 pages.
+2024-10-16 15:55:36,336 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 15:55:47,300 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 15:55:47,300 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-16 16:04:14,146 -- app_logs -- INFO -- Uploaded file: Nandurbar3RDCALL.pdf
+2024-10-16 16:04:14,152 -- app_logs -- INFO -- Processing file 1: /tmp/tmp7m4496az/Nandurbar3RDCALL.pdf
+2024-10-16 16:04:14,152 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp7m4496az/Nandurbar3RDCALL.pdf
+2024-10-16 16:04:14,153 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp7m4496az/Nandurbar3RDCALL.pdf
+2024-10-16 16:04:26,666 -- pdf_extractor_logs -- DEBUG -- Extracted text from 210 pages.
+2024-10-16 16:04:26,666 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 16:04:36,889 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 16:04:36,889 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-16 17:48:06,009 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-16 17:48:43,398 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-16 17:48:43,404 -- app_logs -- INFO -- Processing file 1: /tmp/tmpud20n3n6/Bairaomgathigaon.pdf
+2024-10-16 17:48:43,404 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpud20n3n6/Bairaomgathigaon.pdf
+2024-10-16 17:48:43,404 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpud20n3n6/Bairaomgathigaon.pdf
+2024-10-16 17:48:49,056 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-16 17:48:49,056 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-16 17:48:55,616 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-16 17:48:55,616 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 10:34:06,902 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 10:34:18,187 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 10:34:18,193 -- app_logs -- INFO -- Processing file 1: /tmp/tmpxkeoava_/Bairaomgathigaon.pdf
+2024-10-17 10:34:18,193 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpxkeoava_/Bairaomgathigaon.pdf
+2024-10-17 10:34:18,193 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpxkeoava_/Bairaomgathigaon.pdf
+2024-10-17 10:34:23,861 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 10:34:23,861 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 10:34:30,490 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 10:34:30,491 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 10:58:40,734 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 10:58:44,743 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 10:58:44,749 -- app_logs -- INFO -- Processing file 1: /tmp/tmpiuv94093/Bairaomgathigaon.pdf
+2024-10-17 10:58:44,749 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpiuv94093/Bairaomgathigaon.pdf
+2024-10-17 10:58:44,749 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpiuv94093/Bairaomgathigaon.pdf
+2024-10-17 10:58:50,470 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 10:58:50,470 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 10:58:57,071 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 10:58:57,071 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 11:32:50,768 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 11:40:11,183 -- app_logs -- INFO -- Uploaded file: Tender.pdf
+2024-10-17 11:40:11,190 -- app_logs -- INFO -- Processing file 1: /tmp/tmpsv00y7q3/Tender.pdf
+2024-10-17 11:40:11,190 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpsv00y7q3/Tender.pdf
+2024-10-17 11:40:11,190 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpsv00y7q3/Tender.pdf
+2024-10-17 11:40:13,836 -- pdf_extractor_logs -- DEBUG -- Extracted text from 101 pages.
+2024-10-17 11:40:13,836 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 11:40:19,112 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 11:40:19,112 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 11:41:31,432 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 11:41:36,907 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 11:41:36,912 -- app_logs -- INFO -- Processing file 1: /tmp/tmpxvfg_87p/Bairaomgathigaon.pdf
+2024-10-17 11:41:36,913 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpxvfg_87p/Bairaomgathigaon.pdf
+2024-10-17 11:41:36,913 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpxvfg_87p/Bairaomgathigaon.pdf
+2024-10-17 11:41:42,720 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 11:41:42,720 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 11:41:49,285 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 11:41:49,285 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 11:45:36,852 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 11:45:40,116 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 11:45:40,120 -- app_logs -- INFO -- Processing file 1: /tmp/tmp287mum1r/Bairaomgathigaon.pdf
+2024-10-17 11:45:40,120 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp287mum1r/Bairaomgathigaon.pdf
+2024-10-17 11:45:40,120 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp287mum1r/Bairaomgathigaon.pdf
+2024-10-17 11:45:45,890 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 11:45:45,890 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 11:45:52,501 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 11:45:52,501 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 11:47:09,755 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 11:47:15,981 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 11:47:15,984 -- app_logs -- INFO -- Processing file 1: /tmp/tmp1ebgdqry/Bairaomgathigaon.pdf
+2024-10-17 11:47:15,985 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp1ebgdqry/Bairaomgathigaon.pdf
+2024-10-17 11:47:15,985 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp1ebgdqry/Bairaomgathigaon.pdf
+2024-10-17 11:47:21,738 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 11:47:21,738 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 11:47:28,310 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 11:47:28,310 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 12:00:43,135 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 12:00:46,853 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 12:00:46,857 -- app_logs -- INFO -- Processing file 1: /tmp/tmp7po0ehma/Bairaomgathigaon.pdf
+2024-10-17 12:00:46,857 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp7po0ehma/Bairaomgathigaon.pdf
+2024-10-17 12:00:46,857 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp7po0ehma/Bairaomgathigaon.pdf
+2024-10-17 12:00:52,648 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 12:00:52,648 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 12:00:59,198 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 12:00:59,198 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 12:02:49,156 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 12:02:50,907 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 12:02:50,911 -- app_logs -- INFO -- Processing file 1: /tmp/tmpzmmaj7tx/Bairaomgathigaon.pdf
+2024-10-17 12:02:50,911 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpzmmaj7tx/Bairaomgathigaon.pdf
+2024-10-17 12:02:50,912 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpzmmaj7tx/Bairaomgathigaon.pdf
+2024-10-17 12:02:56,789 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 12:02:56,789 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 12:03:03,452 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 12:03:03,452 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 12:04:20,934 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 12:04:24,259 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 12:04:24,263 -- app_logs -- INFO -- Processing file 1: /tmp/tmp68x0oyx3/Bairaomgathigaon.pdf
+2024-10-17 12:04:24,263 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp68x0oyx3/Bairaomgathigaon.pdf
+2024-10-17 12:04:24,263 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp68x0oyx3/Bairaomgathigaon.pdf
+2024-10-17 12:04:29,935 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 12:04:29,935 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 12:04:36,497 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 12:04:36,497 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 14:42:27,078 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 14:42:31,034 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 14:42:31,038 -- app_logs -- INFO -- Processing file 1: /tmp/tmp1hxeogqs/Bairaomgathigaon.pdf
+2024-10-17 14:42:31,038 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp1hxeogqs/Bairaomgathigaon.pdf
+2024-10-17 14:42:31,038 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp1hxeogqs/Bairaomgathigaon.pdf
+2024-10-17 14:42:36,862 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 14:42:36,862 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 14:42:43,725 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 14:47:56,409 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 14:47:58,706 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 14:47:58,711 -- app_logs -- INFO -- Processing file 1: /tmp/tmppefvn6jj/Bairaomgathigaon.pdf
+2024-10-17 14:47:58,712 -- processor_logs -- INFO -- Processing tender document: /tmp/tmppefvn6jj/Bairaomgathigaon.pdf
+2024-10-17 14:47:58,712 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmppefvn6jj/Bairaomgathigaon.pdf
+2024-10-17 14:48:04,366 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 14:48:04,366 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 14:48:10,955 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 14:48:10,955 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 14:48:50,551 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 14:48:55,384 -- app_logs -- INFO -- Uploaded file: Nandurbar3RDCALL.pdf
+2024-10-17 14:48:55,390 -- app_logs -- INFO -- Processing file 1: /tmp/tmpiq_wwabg/Nandurbar3RDCALL.pdf
+2024-10-17 14:48:55,390 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpiq_wwabg/Nandurbar3RDCALL.pdf
+2024-10-17 14:48:55,390 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpiq_wwabg/Nandurbar3RDCALL.pdf
+2024-10-17 14:49:07,852 -- pdf_extractor_logs -- DEBUG -- Extracted text from 210 pages.
+2024-10-17 14:49:07,852 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 14:49:19,153 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 14:49:19,154 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 14:52:16,408 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 14:52:20,558 -- app_logs -- INFO -- Uploaded file: Nandurbar3RDCALL.pdf
+2024-10-17 14:52:20,565 -- app_logs -- INFO -- Processing file 1: /tmp/tmpd7jlytnu/Nandurbar3RDCALL.pdf
+2024-10-17 14:52:20,566 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpd7jlytnu/Nandurbar3RDCALL.pdf
+2024-10-17 14:52:20,566 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpd7jlytnu/Nandurbar3RDCALL.pdf
+2024-10-17 14:52:33,077 -- pdf_extractor_logs -- DEBUG -- Extracted text from 210 pages.
+2024-10-17 14:52:33,077 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 14:52:44,661 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 14:52:44,661 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 14:56:29,426 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 14:56:35,641 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-17 14:56:35,645 -- app_logs -- INFO -- Processing file 1: /tmp/tmpzdw0pswm/TD.pdf
+2024-10-17 14:56:35,645 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpzdw0pswm/TD.pdf
+2024-10-17 14:56:35,646 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpzdw0pswm/TD.pdf
+2024-10-17 14:56:40,993 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-17 14:56:40,993 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 14:56:46,859 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 14:56:46,860 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:05:11,487 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:05:14,392 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-17 15:05:14,396 -- app_logs -- INFO -- Processing file 1: /tmp/tmp2l2rzp2l/TD.pdf
+2024-10-17 15:05:52,025 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:05:54,105 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-17 15:05:54,108 -- app_logs -- INFO -- Processing file 1: /tmp/tmpcwpgejp_/TD.pdf
+2024-10-17 15:05:54,109 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpcwpgejp_/TD.pdf
+2024-10-17 15:05:54,109 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpcwpgejp_/TD.pdf
+2024-10-17 15:05:59,327 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-17 15:05:59,328 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:06:05,161 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:06:05,162 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:06:59,386 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:07:01,916 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-17 15:07:01,920 -- app_logs -- INFO -- Processing file 1: /tmp/tmp2sxq1yig/TD.pdf
+2024-10-17 15:07:01,920 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp2sxq1yig/TD.pdf
+2024-10-17 15:07:01,921 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp2sxq1yig/TD.pdf
+2024-10-17 15:07:07,308 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-17 15:07:07,309 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:07:13,153 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:07:13,155 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:08:15,788 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:08:19,127 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-17 15:08:19,132 -- app_logs -- INFO -- Processing file 1: /tmp/tmpg9t3sddf/TD.pdf
+2024-10-17 15:08:19,133 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpg9t3sddf/TD.pdf
+2024-10-17 15:08:19,133 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpg9t3sddf/TD.pdf
+2024-10-17 15:08:24,517 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-17 15:08:24,517 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:08:30,314 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:08:30,315 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:08:53,175 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 15:08:53,178 -- app_logs -- INFO -- Processing file 1: /tmp/tmp83tq6vt7/Bairaomgathigaon.pdf
+2024-10-17 15:08:53,179 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp83tq6vt7/Bairaomgathigaon.pdf
+2024-10-17 15:08:53,179 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp83tq6vt7/Bairaomgathigaon.pdf
+2024-10-17 15:08:58,934 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 15:08:58,934 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:09:05,275 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:09:05,275 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:09:13,532 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-10-17 15:09:13,542 -- app_logs -- INFO -- Processing file 1: /tmp/tmpd_atl6t9/Biddocument51_200KW.pdf
+2024-10-17 15:09:13,542 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpd_atl6t9/Biddocument51_200KW.pdf
+2024-10-17 15:09:13,542 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpd_atl6t9/Biddocument51_200KW.pdf
+2024-10-17 15:09:26,231 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-10-17 15:09:26,231 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:09:41,675 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:09:41,675 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:10:00,169 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-17 15:10:00,174 -- app_logs -- INFO -- Processing file 1: /tmp/tmpvhcvomcr/Tender JalgaonAndDhule.pdf
+2024-10-17 15:10:00,175 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpvhcvomcr/Tender JalgaonAndDhule.pdf
+2024-10-17 15:10:00,175 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpvhcvomcr/Tender JalgaonAndDhule.pdf
+2024-10-17 15:10:11,781 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-17 15:10:11,782 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:10:21,516 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:10:21,516 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:28:51,702 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:28:54,843 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-17 15:28:54,847 -- app_logs -- INFO -- Processing file 1: /tmp/tmpnaz4zgw8/Tender JalgaonAndDhule.pdf
+2024-10-17 15:28:54,847 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpnaz4zgw8/Tender JalgaonAndDhule.pdf
+2024-10-17 15:28:54,847 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpnaz4zgw8/Tender JalgaonAndDhule.pdf
+2024-10-17 15:29:06,403 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-17 15:29:06,404 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:29:16,956 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:29:16,957 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:30:21,039 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:30:23,198 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-17 15:30:23,202 -- app_logs -- INFO -- Processing file 1: /tmp/tmpsqp5zaq6/Tender JalgaonAndDhule.pdf
+2024-10-17 15:30:23,202 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpsqp5zaq6/Tender JalgaonAndDhule.pdf
+2024-10-17 15:30:23,202 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpsqp5zaq6/Tender JalgaonAndDhule.pdf
+2024-10-17 15:30:34,922 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-17 15:30:34,922 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:30:45,299 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:30:45,300 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:32:50,215 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:32:53,080 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-17 15:32:53,086 -- app_logs -- INFO -- Processing file 1: /tmp/tmpfp2oy_4c/Tender JalgaonAndDhule.pdf
+2024-10-17 15:32:53,087 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpfp2oy_4c/Tender JalgaonAndDhule.pdf
+2024-10-17 15:32:53,087 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpfp2oy_4c/Tender JalgaonAndDhule.pdf
+2024-10-17 15:33:04,699 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-17 15:33:04,699 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:33:15,017 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:33:15,018 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:33:35,959 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 15:33:35,963 -- app_logs -- INFO -- Processing file 1: /tmp/tmp9rs05lcy/Bairaomgathigaon.pdf
+2024-10-17 15:33:35,963 -- processor_logs -- INFO -- Processing tender document: /tmp/tmp9rs05lcy/Bairaomgathigaon.pdf
+2024-10-17 15:33:35,963 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmp9rs05lcy/Bairaomgathigaon.pdf
+2024-10-17 15:33:41,763 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 15:33:41,763 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:33:48,133 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:33:48,133 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:38:48,316 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:38:51,369 -- app_logs -- INFO -- Uploaded file: Bairaomgathigaon.pdf
+2024-10-17 15:38:51,373 -- app_logs -- INFO -- Processing file 1: /tmp/tmpwxufq2er/Bairaomgathigaon.pdf
+2024-10-17 15:38:51,373 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpwxufq2er/Bairaomgathigaon.pdf
+2024-10-17 15:38:51,373 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpwxufq2er/Bairaomgathigaon.pdf
+2024-10-17 15:38:57,080 -- pdf_extractor_logs -- DEBUG -- Extracted text from 147 pages.
+2024-10-17 15:38:57,080 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:39:03,667 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:39:03,667 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:39:13,478 -- app_logs -- INFO -- Uploaded file: TD.pdf
+2024-10-17 15:39:13,480 -- app_logs -- INFO -- Processing file 1: /tmp/tmps77jzhtm/TD.pdf
+2024-10-17 15:39:13,481 -- processor_logs -- INFO -- Processing tender document: /tmp/tmps77jzhtm/TD.pdf
+2024-10-17 15:39:13,482 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmps77jzhtm/TD.pdf
+2024-10-17 15:39:18,833 -- pdf_extractor_logs -- DEBUG -- Extracted text from 112 pages.
+2024-10-17 15:39:18,833 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:39:24,418 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:39:24,418 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:39:41,476 -- app_logs -- INFO -- Uploaded file: Tender JalgaonAndDhule.pdf
+2024-10-17 15:39:41,480 -- app_logs -- INFO -- Processing file 1: /tmp/tmppvem4ldo/Tender JalgaonAndDhule.pdf
+2024-10-17 15:39:41,480 -- processor_logs -- INFO -- Processing tender document: /tmp/tmppvem4ldo/Tender JalgaonAndDhule.pdf
+2024-10-17 15:39:41,481 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmppvem4ldo/Tender JalgaonAndDhule.pdf
+2024-10-17 15:39:53,282 -- pdf_extractor_logs -- DEBUG -- Extracted text from 187 pages.
+2024-10-17 15:39:53,283 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:40:03,167 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:40:03,168 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:40:20,958 -- app_logs -- INFO -- Uploaded file: Tender.pdf
+2024-10-17 15:40:20,963 -- app_logs -- INFO -- Processing file 1: /tmp/tmpuifiwr3p/Tender.pdf
+2024-10-17 15:40:20,964 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpuifiwr3p/Tender.pdf
+2024-10-17 15:40:20,964 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpuifiwr3p/Tender.pdf
+2024-10-17 15:40:23,582 -- pdf_extractor_logs -- DEBUG -- Extracted text from 101 pages.
+2024-10-17 15:40:23,582 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:40:28,433 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:40:28,434 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:40:46,789 -- app_logs -- INFO -- Uploaded file: Nandurbar3RDCALL.pdf
+2024-10-17 15:40:46,796 -- app_logs -- INFO -- Processing file 1: /tmp/tmpri4azceu/Nandurbar3RDCALL.pdf
+2024-10-17 15:40:46,796 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpri4azceu/Nandurbar3RDCALL.pdf
+2024-10-17 15:40:46,796 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpri4azceu/Nandurbar3RDCALL.pdf
+2024-10-17 15:40:59,232 -- pdf_extractor_logs -- DEBUG -- Extracted text from 210 pages.
+2024-10-17 15:40:59,233 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:41:09,451 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:41:09,452 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:41:24,614 -- app_logs -- INFO -- Uploaded file: Biddocument51_200KW.pdf
+2024-10-17 15:41:24,620 -- app_logs -- INFO -- Processing file 1: /tmp/tmpi7ml8hgp/Biddocument51_200KW.pdf
+2024-10-17 15:41:24,621 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpi7ml8hgp/Biddocument51_200KW.pdf
+2024-10-17 15:41:24,621 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpi7ml8hgp/Biddocument51_200KW.pdf
+2024-10-17 15:41:37,397 -- pdf_extractor_logs -- DEBUG -- Extracted text from 442 pages.
+2024-10-17 15:41:37,397 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:41:53,264 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:41:53,264 -- processor_logs -- DEBUG -- Document processed successfully.
+2024-10-17 15:46:36,253 -- keywords_logs -- DEBUG -- Keywords loaded successfully.
+2024-10-17 15:46:40,339 -- app_logs -- INFO -- Uploaded file: Tender.pdf
+2024-10-17 15:46:40,346 -- app_logs -- INFO -- Processing file 1: /tmp/tmpyycnwqob/Tender.pdf
+2024-10-17 15:46:40,348 -- processor_logs -- INFO -- Processing tender document: /tmp/tmpyycnwqob/Tender.pdf
+2024-10-17 15:46:40,348 -- pdf_extractor_logs -- INFO -- Extracting text from PDF: /tmp/tmpyycnwqob/Tender.pdf
+2024-10-17 15:46:43,054 -- pdf_extractor_logs -- DEBUG -- Extracted text from 101 pages.
+2024-10-17 15:46:43,054 -- keyword_mapper_logs -- INFO -- Mapping keywords to categories.
+2024-10-17 15:46:48,628 -- keyword_mapper_logs -- DEBUG -- Keyword mapping completed.
+2024-10-17 15:46:48,630 -- processor_logs -- DEBUG -- Document processed successfully.
